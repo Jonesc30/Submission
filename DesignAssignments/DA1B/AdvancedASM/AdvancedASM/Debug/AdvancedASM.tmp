@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>c:\users\cody jones\Documents\Atmel Studio\7.0\AdvancedASM\AdvancedASM\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\cody jones\Documents\Atmel Studio\7.0\AdvancedASM\AdvancedASM\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\cody jones\Documents\Atmel Studio\7.0\AdvancedASM\AdvancedASM\Debug\AdvancedASM.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AdvancedASM.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AdvancedASM.map</FILE>
+  <FILE>AdvancedASM.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <POPULATE_LOOP1><FILE>c:\users\cody jones\Documents\Atmel Studio\7.0\AdvancedASM\AdvancedASM\main.asm</FILE><LINE>18</LINE></POPULATE_LOOP1>
+  <POPULATE_LOOP2><FILE>c:\users\cody jones\Documents\Atmel Studio\7.0\AdvancedASM\AdvancedASM\main.asm</FILE><LINE>26</LINE></POPULATE_LOOP2>
+  <PARSING_LOOP><FILE>c:\users\cody jones\Documents\Atmel Studio\7.0\AdvancedASM\AdvancedASM\main.asm</FILE><LINE>47</LINE></PARSING_LOOP>
+  <DIV_BY_FIVE><FILE>c:\users\cody jones\Documents\Atmel Studio\7.0\AdvancedASM\AdvancedASM\main.asm</FILE><LINE>51</LINE></DIV_BY_FIVE>
+  <DIVISIBLE><FILE>c:\users\cody jones\Documents\Atmel Studio\7.0\AdvancedASM\AdvancedASM\main.asm</FILE><LINE>62</LINE></DIVISIBLE>
+  <CONT_PARSE><FILE>c:\users\cody jones\Documents\Atmel Studio\7.0\AdvancedASM\AdvancedASM\main.asm</FILE><LINE>67</LINE></CONT_PARSE>
+  <END><FILE>c:\users\cody jones\Documents\Atmel Studio\7.0\AdvancedASM\AdvancedASM\main.asm</FILE><LINE>71</LINE></END>
+ </LABELS>
+</ASSEMBLER_INFO>
