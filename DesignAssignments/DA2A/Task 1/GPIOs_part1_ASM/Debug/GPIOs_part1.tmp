@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\Cody Jones\Documents\Atmel Studio\7.0\GPIOs_part1\GPIOs_part1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Cody Jones\Documents\Atmel Studio\7.0\GPIOs_part1\GPIOs_part1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Cody Jones\Documents\Atmel Studio\7.0\GPIOs_part1\GPIOs_part1\Debug\GPIOs_part1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>GPIOs_part1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>GPIOs_part1.map</FILE>
+  <FILE>GPIOs_part1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <BEGIN><FILE>C:\Users\Cody Jones\Documents\Atmel Studio\7.0\GPIOs_part1\GPIOs_part1\main.asm</FILE><LINE>15</LINE></BEGIN>
+  <L1><FILE>C:\Users\Cody Jones\Documents\Atmel Studio\7.0\GPIOs_part1\GPIOs_part1\main.asm</FILE><LINE>24</LINE></L1>
+  <L2><FILE>C:\Users\Cody Jones\Documents\Atmel Studio\7.0\GPIOs_part1\GPIOs_part1\main.asm</FILE><LINE>41</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>
